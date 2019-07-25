@@ -1,0 +1,5 @@
+## Interface: 40200
+## Title: Rippy's TrinketMenu Fix
+## Notes: Rippy farms so hard he makes his own addons thenk)
+## Dependencies: TrinketMenu
+core.lua
