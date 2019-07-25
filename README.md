@@ -7,7 +7,7 @@ Fix TrinketMenu having low render priority(Strata)
 
 ### After
 
-<img src="images/Rippys_TrinketMenu_Fix1.png" width=300">
+<img src="images/Rippys_TrinketMenu_Fix1.png" width=300>
 
 ### Dependancies 
 
